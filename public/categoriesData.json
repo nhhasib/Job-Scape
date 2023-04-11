@@ -1,0 +1,22 @@
+[
+  {
+    "name": "Software Engineering",
+    "jobs": 1200,
+    "icons": "faCode"
+  },
+  {
+    "name": "Mechanical Engineering",
+    "jobs": 800,
+    "icons": "faCogs"
+  },
+  {
+    "name": "Electrical Engineering",
+    "jobs": 600,
+    "icons": "faBolt"
+  },
+  {
+    "name": "Civil Engineering",
+    "jobs": 400,
+    "icons": "faHardHat"
+  }
+]
