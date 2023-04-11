@@ -1,0 +1,122 @@
+[
+    {
+      "id": 1,
+      "title": "Front-end Developer",
+      "company": "Google",
+      "logo": "https://www.google.com/images/branding/googlelogo/1x/googlelogo_color_272x92dp.png",
+      "location": "Los Angeles, CA",
+      "duty_place": "Onsite",
+      "description": "Develop user-friendly, responsive and visually appealing web applications using HTML, CSS, and JavaScript.",
+      "requirements": "Bachelor's degree in Computer Science or related field, 3+ years of experience in front-end development, experience with React or Angular.",
+      "experience": "3+ years",
+      "type": "Full-time"
+    },
+    {
+      "id": 2,
+      "title": "Software Engineer",
+      "company": "Microsoft",
+      "logo": "https://www.microsoft.com/en-us/store/b/themes/microsoft/microsoft.png",
+      "location": "New York, NY",
+      "duty_place": "Onsite",
+      "description": "Design, develop, and test software solutions using Java and SQL.",
+      "requirements": "Bachelor's degree in Computer Science or related field, 5+ years of experience in software engineering, experience with Java and SQL.",
+      "experience": "5+ years",
+      "type": "Full-time"
+    },
+    {
+      "id": 3,
+      "title": "Product Manager",
+      "company": "Amazon",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Amazon_logo_plain.svg/1200px-Amazon_logo_plain.svg.png",
+      "location": "San Francisco, CA",
+      "duty_place": "Onsite",
+      "description": "Define and drive product vision and roadmap for new and existing products.",
+      "requirements": "Bachelor's degree in Business, Marketing, or related field, 7+ years of experience in product management, experience in agile methodologies.",
+      "experience": "7+ years",
+      "type": "Full-time"
+    },
+    {
+      "id": 4,
+      "title": "UI/UX Designer",
+      "company": "Apple",
+      "logo": "https://www.apple.com/ac/globalnav/4/en_US/images/globalnav/apple/image_large.svg",
+      "location": "Austin, TX",
+      "duty_place": "Remote",
+      "description": "Design and develop engaging user interfaces and experiences for web and mobile applications.",
+      "requirements": "Bachelor's degree in Design or related field, 3+ years of experience in UI/UX design, proficiency in Sketch, Photoshop, and InVision.",
+      "experience": "3+ years",
+      "type": "Full-time"
+    },
+    {
+      "id": 5,
+      "title": "DevOps Engineer",
+      "company": "Facebook ",
+      "logo": "https://www.facebook.com/images/fb_icon_325x325.png",
+      "location": "Seattle, WA",
+      "duty_place": "Onsite",
+      "description": "Manage and automate cloud infrastructure and deployment pipelines.",
+      "requirements": "Bachelor's degree in Computer Science or related field, 5+ years of experience in DevOps or related field, experience with AWS or Azure.",
+      "experience": "5+ years",
+      "type": "Full-time"
+    },
+    {
+      "id": 6,
+      "title": "Data Scientist",
+      "company": "IBM",
+      "logo": "https://www.ibm.com/ibm/assets/general/icons/ibm-logo.png",
+      "location": "Boston, MA",
+      "duty_place": "Onsite",
+      "description": "Analyze and model data to provide insights and solutions to business problems.",
+      "requirements": "Master's or Ph.D. in Data Science, Computer Science” ,
+      "experience": "5+ years",
+      "type": "Full-time"
+    },
+    {
+      "id": 7,
+      "title": "Backend Developer",
+      "company": "Cisco",
+      "logo": "https://www.cisco.com/c/dam/en_us/about/ac47/cisco-logo-socialshare.png",
+      "location": "Chicago, IL",
+      "duty_place": "Onsite",
+      "description": "Build scalable, reliable and high-performance APIs using Node.js, Python or Java.",
+      "requirements": "Bachelor's degree in Computer Science or related field, 3+ years of experience in backend development, experience with Node.js, Python or Java.",
+      "experience": "3+ years",
+      "type": "Full-time"
+    },
+    {
+      "id": 8,
+      "title": "Mobile App Developer",
+      "company": "Intel ",
+      "logo": "https://www.intel.com/content/dam/www/public/us/en/images/hero/hero-image-intel-logo.png",
+      "location": "Miami, FL",
+      "duty_place": "Remote",
+      "description": "Design and develop native and cross-platform mobile applications for iOS and Android.",
+      "requirements": "Bachelor's degree in Computer Science or related field, 5+ years of experience in mobile app development, proficiency in Swift, Kotlin, or React Native.",
+      "experience": "5+ years",
+      "type": "Full-time"
+    },
+    {
+      "id": 9,
+      "title": "Cybersecurity Analyst",
+      "company": "HP",
+      "logo": "https://www8.hp.com/etc/designs/hp-blank/img/hp-logo-og.png",
+      "location": "Washington, D.C.",
+      "duty_place": "Onsite",
+      "description": "Identify and mitigate cybersecurity threats and vulnerabilities.",
+      "requirements": "Bachelor's degree in Cybersecurity or related field, 3+ years of experience in cybersecurity analysis, experience with SIEM tools and incident response.",
+      "experience": "3+ years",
+      "type": "Full-time"
+    },
+    {
+      "id": 10,
+      "title": "Cloud Architect",
+      "company": "Dell",
+      "logo": "https://www.delltechnologies.com/content/dam/delltechnologies/images/logos/DT_logo-Color-K.png.transform/resize/relative-height-1x/DT_logo-Color-K.png",
+      "location": "Denver, CO",
+      "duty_place": "Remote",
+      "description": "Design and implement cloud-based solutions for scalability, security and high availability.",
+      "requirements": "Bachelor's degree in Computer Science or related field, 5+ years of experience in cloud architecture, experience with AWS or Azure.",
+      "experience": "5+ years",
+      "type": "Full-time"
+    }
+  ]
