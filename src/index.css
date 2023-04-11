@@ -46,9 +46,11 @@ button {
   font-family: inherit;
   cursor: pointer;
   transition: border-color 0.25s;
+  background-color: orange;
 }
 button:hover {
   border-color: #646cff;
+  background-color: orangered;
 }
 button:focus,
 button:focus-visible {

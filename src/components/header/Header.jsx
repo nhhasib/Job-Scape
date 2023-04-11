@@ -1,14 +1,18 @@
 import React from 'react';
 import Nav from '../navigation/Nav';
+import { Outlet } from 'react-router-dom';
 
 const Header = () => {
     return (
-        <div className=' bg-slate-300 p-0 m-0'>
+        <div>
+            <div className=' bg-slate-100 px-0 m-0 py-6'>
             <div className='flex justify-between w-9/12 mx-auto'>
             <h2 className='text-4xl p-2'>JobScape</h2>
             <Nav></Nav>
             <button>Start Applying</button>
-        </div>
+            </div>
+            </div>
+            <Outlet></Outlet>
         </div>
     );
 };
