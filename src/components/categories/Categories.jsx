@@ -15,7 +15,7 @@ const Categories = () => {
       <p className="pb-6">Explore thousands of job opportunities with all the information you need. Its your future</p>
       <div className="grid grid-cols-4 my-4 gap-4">
         {
-        datas.map((data) => (<Category data={data}></Category>))
+        datas.map((data) => (<Category data={data} key={data.id}></Category>))
         }
       </div>
     </div>

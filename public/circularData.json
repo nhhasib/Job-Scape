@@ -9,43 +9,47 @@
       "description": "Develop user-friendly, responsive and visually appealing web applications using HTML, CSS, and JavaScript.",
       "requirements": "Bachelor's degree in Computer Science or related field, 3+ years of experience in front-end development, experience with React or Angular.",
       "experience": "3+ years",
-      "type": "Full-time"
+      "type": "Full-time",
+      "salary": "$90,000 - $120,000"
     },
     {
       "id": 2,
       "title": "Software Engineer",
       "company": "Microsoft",
-      "logo": "https://www.microsoft.com/en-us/store/b/themes/microsoft/microsoft.png",
+      "logo": "https://logos-world.net/wp-content/uploads/2020/09/Microsoft-Logo.png",
       "location": "New York, NY",
       "duty_place": "Onsite",
       "description": "Design, develop, and test software solutions using Java and SQL.",
       "requirements": "Bachelor's degree in Computer Science or related field, 5+ years of experience in software engineering, experience with Java and SQL.",
       "experience": "5+ years",
-      "type": "Full-time"
+      "type": "Full-time",
+      "salary": "$100,000 - $140,000"
     },
     {
       "id": 3,
       "title": "Product Manager",
       "company": "Amazon",
-      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Amazon_logo_plain.svg/1200px-Amazon_logo_plain.svg.png",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Amazon_logo.svg/2560px-Amazon_logo.svg.png",
       "location": "San Francisco, CA",
       "duty_place": "Onsite",
       "description": "Define and drive product vision and roadmap for new and existing products.",
       "requirements": "Bachelor's degree in Business, Marketing, or related field, 7+ years of experience in product management, experience in agile methodologies.",
       "experience": "7+ years",
-      "type": "Full-time"
+      "type": "Full-time",
+      "salary": "$70,000 - $90,000"
     },
     {
       "id": 4,
       "title": "UI/UX Designer",
       "company": "Apple",
-      "logo": "https://www.apple.com/ac/globalnav/4/en_US/images/globalnav/apple/image_large.svg",
+      "logo": "https://logosmarcas.net/wp-content/uploads/2020/04/Apple-Simbolo.png",
       "location": "Austin, TX",
       "duty_place": "Remote",
       "description": "Design and develop engaging user interfaces and experiences for web and mobile applications.",
       "requirements": "Bachelor's degree in Design or related field, 3+ years of experience in UI/UX design, proficiency in Sketch, Photoshop, and InVision.",
       "experience": "3+ years",
-      "type": "Full-time"
+      "type": "Full-time",
+      "salary": "$120,000 - $160,000"
     },
     {
       "id": 5,
@@ -57,66 +61,72 @@
       "description": "Manage and automate cloud infrastructure and deployment pipelines.",
       "requirements": "Bachelor's degree in Computer Science or related field, 5+ years of experience in DevOps or related field, experience with AWS or Azure.",
       "experience": "5+ years",
-      "type": "Full-time"
+      "type": "Full-time",
+      "salary": "$80,000 - $110,000"
     },
     {
       "id": 6,
       "title": "Data Scientist",
       "company": "IBM",
-      "logo": "https://www.ibm.com/ibm/assets/general/icons/ibm-logo.png",
+      "logo": "https://cdn-icons-png.flaticon.com/512/5969/5969083.png",
       "location": "Boston, MA",
       "duty_place": "Onsite",
       "description": "Analyze and model data to provide insights and solutions to business problems.",
-      "requirements": "Master's or Ph.D. in Data Science, Computer Science” ,
+      "requirements": "Master's or Ph.D. in Data Science, Computer Science",
       "experience": "5+ years",
-      "type": "Full-time"
+      "type": "Full-time",
+      "salary": "$130,000 - $170,000"
     },
     {
       "id": 7,
       "title": "Backend Developer",
       "company": "Cisco",
-      "logo": "https://www.cisco.com/c/dam/en_us/about/ac47/cisco-logo-socialshare.png",
+      "logo": "https://cdn.freebiesupply.com/images/large/2x/cisco-logo-transparent.png",
       "location": "Chicago, IL",
       "duty_place": "Onsite",
       "description": "Build scalable, reliable and high-performance APIs using Node.js, Python or Java.",
       "requirements": "Bachelor's degree in Computer Science or related field, 3+ years of experience in backend development, experience with Node.js, Python or Java.",
       "experience": "3+ years",
-      "type": "Full-time"
+      "type": "Full-time",
+      "salary": "$80,000 - $110,000"
     },
     {
       "id": 8,
       "title": "Mobile App Developer",
       "company": "Intel ",
-      "logo": "https://www.intel.com/content/dam/www/public/us/en/images/hero/hero-image-intel-logo.png",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Intel_logo_%282006-2020%29.svg/800px-Intel_logo_%282006-2020%29.svg.png",
       "location": "Miami, FL",
       "duty_place": "Remote",
       "description": "Design and develop native and cross-platform mobile applications for iOS and Android.",
       "requirements": "Bachelor's degree in Computer Science or related field, 5+ years of experience in mobile app development, proficiency in Swift, Kotlin, or React Native.",
       "experience": "5+ years",
-      "type": "Full-time"
+      "type": "Full-time",
+      "salary": "$75,000 - $100,000"
     },
     {
       "id": 9,
       "title": "Cybersecurity Analyst",
       "company": "HP",
-      "logo": "https://www8.hp.com/etc/designs/hp-blank/img/hp-logo-og.png",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/6/6f/HP_logo_630x630.png",
       "location": "Washington, D.C.",
       "duty_place": "Onsite",
       "description": "Identify and mitigate cybersecurity threats and vulnerabilities.",
       "requirements": "Bachelor's degree in Cybersecurity or related field, 3+ years of experience in cybersecurity analysis, experience with SIEM tools and incident response.",
       "experience": "3+ years",
-      "type": "Full-time"
+      "type": "Full-time",
+      "salary": "$100,000 - $130,000"
     },
     {
       "id": 10,
       "title": "Cloud Architect",
       "company": "Dell",
-      "logo": "https://www.delltechnologies.com/content/dam/delltechnologies/images/logos/DT_logo-Color-K.png.transform/resize/relative-height-1x/DT_logo-Color-K.png",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Dell_Logo.png/1200px-Dell_Logo.png",
       "location": "Denver, CO",
       "duty_place": "Remote",
       "description": "Design and implement cloud-based solutions for scalability, security and high availability.",
       "requirements": "Bachelor's degree in Computer Science or related field, 5+ years of experience in cloud architecture, experience with AWS or Azure.",
       "experience": "5+ years",
-      "type": "Full-time"
+      "type": "Full-time",
+      "salary": "$100,000 - $140,000"
     }
   ]
