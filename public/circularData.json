@@ -10,7 +10,12 @@
       "requirements": "Bachelor's degree in Computer Science or related field, 3+ years of experience in front-end development, experience with React or Angular.",
       "experience": "3+ years",
       "type": "Full-time",
-      "salary": "$90,000 - $120,000"
+      "salary": "$90,000 - $120,000",
+      "email": "johndoe@email.com",
+      "phone": "+1-555-555-5555",
+      "address": "123 Main St, Anytown, CA 12345, USA",
+      "responsibilities": 
+        "As a Front End Developer, your primary responsibility is to build and maintain user-friendly interfaces for web and mobile applications using HTML, CSS, and JavaScript. You will collaborate closely with designers and back-end developers to ensure the best possible user experience, while also creating reusable code and libraries to streamline development processes. Your focus will be on optimizing web pages for maximum speed and scalability, while staying up-to-date with emerging trends and technologies in front-end development. You will need to have strong debugging and troubleshooting skills to identify and fix issues as they arise, and conduct thorough cross-browser and cross-device testing to ensure consistent display across platforms. Additionally, you will need to prioritize web performance and accessibility, ensuring code quality through reviews and testing, and effectively communicate with project managers and other team members to deliver projects on time and with high quality."
     },
     {
       "id": 2,
@@ -23,7 +28,11 @@
       "requirements": "Bachelor's degree in Computer Science or related field, 5+ years of experience in software engineering, experience with Java and SQL.",
       "experience": "5+ years",
       "type": "Full-time",
-      "salary": "$100,000 - $140,000"
+      "salary": "$100,000 - $140,000",
+      "email": "janesmith@email.com",
+    "phone": "+44 123 456 7890",
+    "address": "456 High St, London W1A 1AA, UK",
+      "responsibilities": "The job responsibilities of a Software Developer typically involve designing, developing, and maintaining software applications. This involves writing clean, efficient, and maintainable code in one or more programming languages such as Java, Python, C++, or Ruby. You will collaborate with other developers, project managers, and stakeholders to ensure project goals are met, and be responsible for debugging and troubleshooting issues as they arise. Additionally, you will participate in code reviews and ensure adherence to coding standards, while staying up-to-date with emerging trends and technologies in software development. You will also need to be familiar with databases and SQL, and have strong problem-solving skills to identify and solve complex technical challenges. A Software Developer is responsible for ensuring high-quality software development and timely delivery of projects, while working collaboratively in a team environment."
     },
     {
       "id": 3,
@@ -36,7 +45,11 @@
       "requirements": "Bachelor's degree in Business, Marketing, or related field, 7+ years of experience in product management, experience in agile methodologies.",
       "experience": "7+ years",
       "type": "Full-time",
-      "salary": "$70,000 - $90,000"
+      "salary": "$70,000 - $90,000",
+      "email": "bobross@email.com",
+    "phone": "+1-123-456-7890",
+    "address": "789 Happy Pl, Joytown, NY 54321, USA",
+      "responsibilities":"A Product Manager is responsible for leading the development and launch of products that meet customer needs and drive business growth. This involves gathering and analyzing customer feedback, market research, and industry trends to identify opportunities for new products or improvements to existing ones. Product Managers work closely with cross-functional teams, including designers, engineers, and sales and marketing teams, to define product requirements, develop product roadmaps, and ensure timely and successful product launches. They are responsible for prioritizing features and functionality based on customer needs, business objectives, and technical feasibility. Product Managers also collaborate with stakeholders to develop pricing strategies, go-to-market plans, and other product-related strategies. They must be able to communicate effectively across teams and with senior management, and have strong analytical and problem-solving skills. Product Managers are ultimately responsible for the success of their products, and must constantly monitor and evaluate their performance against business goals and customer needs to ensure continued growth and success."
     },
     {
       "id": 4,
@@ -49,7 +62,11 @@
       "requirements": "Bachelor's degree in Design or related field, 3+ years of experience in UI/UX design, proficiency in Sketch, Photoshop, and InVision.",
       "experience": "3+ years",
       "type": "Full-time",
-      "salary": "$120,000 - $160,000"
+      "salary": "$120,000 - $160,000",
+      "email": "johndoe2@email.com",
+    "phone": "+1-555-555-5555",
+    "address": "456 Any St, Anytown, CA 12345, USA",
+      "responsibilities":"The job responsibilities of a UX/UI Designer involve creating visually appealing, user-friendly interfaces for websites, mobile applications, and other digital products. This includes conducting user research to identify user needs and preferences, and designing user flows, wireframes, and prototypes to guide the development process. UX/UI Designers collaborate with developers, project managers, and other stakeholders to ensure the best possible user experience, and work to ensure consistency across all digital touchpoints. They are responsible for selecting appropriate typography, color schemes, and other design elements, while also considering usability and accessibility requirements. UX/UI Designers must be able to balance design aesthetics with technical feasibility, and have strong problem-solving and communication skills. They are also responsible for conducting usability testing and making design iterations based on user feedback, as well as staying up-to-date with emerging trends and technologies in UX/UI design. Ultimately, UX/UI Designers are responsible for creating engaging and user-friendly digital experiences that meet user needs and drive business growth."
     },
     {
       "id": 5,
@@ -62,7 +79,11 @@
       "requirements": "Bachelor's degree in Computer Science or related field, 5+ years of experience in DevOps or related field, experience with AWS or Azure.",
       "experience": "5+ years",
       "type": "Full-time",
-      "salary": "$80,000 - $110,000"
+      "salary": "$80,000 - $110,000",
+      "email": "janesmith2@email.com",
+    "phone": "+44 123 456 7890",
+    "address": "789 Main St, London W1A 1AA, UK",
+      "responsibilities":"A DevOps Engineer is responsible for creating and maintaining the tools and infrastructure needed for continuous integration, delivery, and deployment of software applications. This includes designing and developing automated deployment pipelines, monitoring and troubleshooting production environments, and working with developers to ensure smooth transitions between development, testing, and production environments. DevOps Engineers use a variety of tools and technologies, such as Docker, Kubernetes, Ansible, and Jenkins, to automate processes and ensure consistency across environments. They are responsible for implementing security measures, disaster recovery plans, and backup systems to ensure the stability and reliability of production environments. Additionally, they collaborate with development teams to identify and resolve infrastructure-related issues, and work with stakeholders to prioritize and implement new features and functionality. DevOps Engineers must have strong technical skills, as well as excellent communication, problem-solving, and analytical skills. They are responsible for ensuring the efficient and effective deployment of software applications, while maintaining the stability and security of production environments."
     },
     {
       "id": 6,
@@ -75,7 +96,11 @@
       "requirements": "Master's or Ph.D. in Data Science, Computer Science",
       "experience": "5+ years",
       "type": "Full-time",
-      "salary": "$130,000 - $170,000"
+      "salary": "$130,000 - $170,000",
+      "email": "alice@example.com",
+    "phone": "+1-555-123-4567",
+    "address": "456 Oak St, San Francisco, CA 94102, USA",
+      "responsibilities":"The job responsibilities of a Data Scientist involve using statistical and analytical techniques to extract insights and knowledge from complex data sets. This includes collecting and analyzing large amounts of data from various sources, identifying patterns and trends, and developing models and algorithms to solve complex business problems. Data Scientists work closely with stakeholders to understand business requirements and identify opportunities for data-driven decision making. They are responsible for selecting appropriate data models and algorithms, as well as developing and implementing machine learning and predictive modeling techniques. Data Scientists also communicate findings and insights to both technical and non-technical audiences, and work with developers and other stakeholders to ensure the effective deployment of data-driven solutions. They must have strong technical skills, including proficiency in programming languages such as Python and R, as well as excellent communication and problem-solving skills. Data Scientists are responsible for providing insights that drive business growth and innovation, while ensuring data accuracy, integrity, and security."
     },
     {
       "id": 7,
@@ -88,7 +113,11 @@
       "requirements": "Bachelor's degree in Computer Science or related field, 3+ years of experience in backend development, experience with Node.js, Python or Java.",
       "experience": "3+ years",
       "type": "Full-time",
-      "salary": "$80,000 - $110,000"
+      "salary": "$80,000 - $110,000",
+      "email": "bob@example.com",
+    "phone": "+44-123-456-7890",
+    "address": "789 High St, Manchester, UK M1 1AB",
+      "responsibilities":"The job responsibilities of a Backend Developer involve designing, developing, and maintaining server-side applications and systems that power web and mobile applications. This includes developing scalable and efficient application programming interfaces (APIs), integrating with databases, and ensuring seamless data flow between front-end and back-end systems. Backend Developers use a variety of programming languages and technologies, such as Java, Node.js, PHP, and Ruby on Rails, to build and maintain robust and secure web applications. They work closely with front-end developers, project managers, and other stakeholders to ensure timely and successful delivery of projects. Backend Developers are responsible for implementing security measures, disaster recovery plans, and backup systems to ensure the stability and reliability of production environments. Additionally, they collaborate with development teams to identify and resolve infrastructure-related issues, and work with stakeholders to prioritize and implement new features and functionality. Backend Developers must have strong technical skills, as well as excellent communication, problem-solving, and analytical skills. They are responsible for ensuring the efficient and effective operation of server-side systems, while maintaining the stability and security of production environments."
     },
     {
       "id": 8,
@@ -101,7 +130,11 @@
       "requirements": "Bachelor's degree in Computer Science or related field, 5+ years of experience in mobile app development, proficiency in Swift, Kotlin, or React Native.",
       "experience": "5+ years",
       "type": "Full-time",
-      "salary": "$75,000 - $100,000"
+      "salary": "$75,000 - $100,000",
+      "email": "carla@example.com",
+    "phone": "+1-123-456-7890",
+    "address": "123 Maple Ave, Anytown, NY 54321, USA",
+      "responsibilities":"The job responsibilities of a Mobile App Developer involve designing, developing, and maintaining mobile applications for various mobile platforms such as iOS and Android. This includes working with project managers and stakeholders to identify user requirements, designing user interfaces and user experiences, and developing the necessary code to implement these designs. Mobile App Developers use a variety of programming languages and technologies such as Swift, Java, Kotlin, React Native, and Flutter to create and maintain mobile applications. They are responsible for ensuring the performance and stability of mobile applications, as well as implementing security measures and testing for potential vulnerabilities. Mobile App Developers also collaborate with other developers, designers, and stakeholders to identify and resolve issues and improve the overall user experience. They must stay up-to-date with emerging trends and technologies in mobile development, and be able to balance technical feasibility with design aesthetics. "
     },
     {
       "id": 9,
@@ -114,7 +147,11 @@
       "requirements": "Bachelor's degree in Cybersecurity or related field, 3+ years of experience in cybersecurity analysis, experience with SIEM tools and incident response.",
       "experience": "3+ years",
       "type": "Full-time",
-      "salary": "$100,000 - $130,000"
+      "salary": "$100,000 - $130,000",
+      "email": "david@example.com",
+    "phone": "+44-123-456-7890",
+    "address": "456 Elm St, London W1A 1AB, UK",
+      "responsibilities":"The job responsibilities of a Cybersecurity Analyst involve ensuring the security and integrity of an organization's information systems and data. This includes monitoring network traffic and identifying potential security threats and vulnerabilities. Cybersecurity Analysts are responsible for developing and implementing security policies and procedures, as well as testing and evaluating security systems and technologies to identify potential risks and vulnerabilities. They work closely with other IT professionals to identify and mitigate security threats, and collaborate with stakeholders to ensure compliance with industry regulations and standards. Cybersecurity Analysts also develop and deliver training and educational programs to ensure that employees are aware of potential security threats and are equipped to respond appropriately. They must stay up-to-date with emerging threats and technologies in cybersecurity, and be able to balance technical knowledge with business acumen. "
     },
     {
       "id": 10,
@@ -127,6 +164,10 @@
       "requirements": "Bachelor's degree in Computer Science or related field, 5+ years of experience in cloud architecture, experience with AWS or Azure.",
       "experience": "5+ years",
       "type": "Full-time",
-      "salary": "$100,000 - $140,000"
+      "salary": "$100,000 - $140,000",
+      "email": "emily@example.com",
+    "phone": "+1-555-123-4567",
+    "address": "789 Pine St, San Francisco, CA 94102, USA",
+      "responsibilities":"The job responsibilities of a Cloud Architect involve designing and implementing cloud-based infrastructure and systems for organizations. Cloud Architects are responsible for analyzing business requirements and identifying appropriate cloud-based solutions that align with business goals and objectives. They design cloud-based infrastructure that is scalable, efficient, and cost-effective, and ensure that it meets the organization's security, compliance, and regulatory requirements. Cloud Architects work closely with stakeholders to understand business requirements, identify opportunities for innovation, and develop strategies for migrating on-premises applications and systems to cloud-based solutions. "
     }
   ]

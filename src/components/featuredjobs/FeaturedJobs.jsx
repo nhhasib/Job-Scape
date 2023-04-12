@@ -1,17 +1,13 @@
 import React, { useEffect, useState } from "react";
 import FeaturedJob from "../featuredJob/FeaturedJob";
 
-const FeaturedJobs = () => {
-  const [circularDatas, setCircularDatas] = useState([]);
+const FeaturedJobs = ({data}) => {
 
-  useEffect(() => {
-    fetch("/public/circularData.json")
-      .then((res) => res.json())
-      .then((datas) => setCircularDatas(datas));
-  }, []);
+  const datasSlice=data.slice(0,4);
 
-  const datasSlice=circularDatas.slice(0,4)
-  console.log(datasSlice);
+  // const detailsHandler=id=>{
+  //   circularDatas.find(data=>data.id==id)
+  // }
 
   return (
     <div className="w-9/12 mx-auto py-6">
@@ -25,6 +21,9 @@ const FeaturedJobs = () => {
         {
             datasSlice.map(data=><FeaturedJob data={data} key={data.id}></FeaturedJob>)
         }
+      </div>
+      <div className="text-center">
+         <button className="my-6">Show All Jobs</button>
       </div>
     </div>
   );

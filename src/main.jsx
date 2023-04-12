@@ -11,6 +11,7 @@ import Home from './components/Home/Home';
 import Statistics from './components/statistics/Statistics';
 import AppliedJobs from './components/applied-jobs/AppliedJobs';
 import Blog from './components/blog/Blog';
+import DetailsJob from './components/detailsJob/DetailsJob';
 
 
 const router = createBrowserRouter([
@@ -21,6 +22,17 @@ const router = createBrowserRouter([
       {
         path:"/",
         element:<Home></Home>,
+        loader:()=>fetch("/public/circularData.json")
+      },
+      {
+        path:'detailsJob/:detailsjobId',
+        element:<DetailsJob></DetailsJob>,
+        loader:async ({params})=>{
+          const data=await fetch("/public/circularData.json");
+          const datas=await data.json();
+          return datas.filter(item=>item.id==params.detailsjobId)
+    
+        }
       },
       {
         path:"statistics",

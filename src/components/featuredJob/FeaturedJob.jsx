@@ -2,6 +2,7 @@ import React from 'react';
 import "./FeaturedJob.css";
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
 import {faLocationArrow,faSackDollar} from '@fortawesome/free-solid-svg-icons';
+import { Link } from 'react-router-dom';
 
 const FeaturedJob = ({data}) => {
 const {id,title,company,logo,location,duty_place,type,salary}=data;
@@ -18,7 +19,7 @@ const {id,title,company,logo,location,duty_place,type,salary}=data;
                 <p><FontAwesomeIcon icon={faLocationArrow}></FontAwesomeIcon> {location}</p>
                 <p><FontAwesomeIcon icon={faSackDollar}></FontAwesomeIcon> {salary}</p>
             </div>
-            <button className='my-4'>View Details</button>
+            <Link to={`/detailsJob/${id}`}>Show Details</Link>
         </div>
     );
 };
