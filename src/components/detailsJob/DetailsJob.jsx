@@ -3,12 +3,15 @@ import { useLoaderData } from "react-router-dom";
 import JobBanner from "../jobBanner/JobBanner";
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
 import {faTasks,faSackDollar,faLocation,faEnvelope,faPhone} from '@fortawesome/free-solid-svg-icons';
-import { addToDb } from "../../utilities/fakeDb";
+import { addToDb, getShoppingCart } from "../../utilities/fakeDb";
 
 const DetailsJob = () => {
   const dataArray = useLoaderData();
+  const appliedJobs=getShoppingCart();
   const handleApply=id=>{
-    addToDb(id);
+    addToDb(id)
+    // if(appliedJobs.find(job=>job.id!==id)){
+    // }
   }
   const {
     id,
