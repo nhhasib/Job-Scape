@@ -19,7 +19,7 @@ const {id,title,company,logo,location,duty_place,type,salary}=data;
                 <p><FontAwesomeIcon icon={faLocationArrow}></FontAwesomeIcon> {location}</p>
                 <p><FontAwesomeIcon icon={faSackDollar}></FontAwesomeIcon> {salary}</p>
             </div>
-            <Link to={`/detailsJob/${id}`}>Show Details</Link>
+            <Link to={`/detailsJob/${id}`}><button className='text-black'>Show Details</button></Link>
         </div>
     );
 };

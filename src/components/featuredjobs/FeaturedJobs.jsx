@@ -5,10 +5,6 @@ const FeaturedJobs = ({data}) => {
 
   const datasSlice=data.slice(0,4);
 
-  // const detailsHandler=id=>{
-  //   circularDatas.find(data=>data.id==id)
-  // }
-
   return (
     <div className="w-9/12 mx-auto py-6">
       <div className="text-center py-4">

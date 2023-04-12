@@ -17,7 +17,7 @@ const Banner = () => {
           <button>Get Started</button>
         </div>
         <div className="w-1/2">
-          <img src="/src/assets/person.png" alt="" />
+          <img src="/src/image/person.png" alt="" />
         </div>
       </div>
     </div>

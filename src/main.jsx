@@ -22,13 +22,13 @@ const router = createBrowserRouter([
       {
         path:"/",
         element:<Home></Home>,
-        loader:()=>fetch("/public/circularData.json")
+        loader:()=>fetch("/public/fakeData/circularData.json")
       },
       {
         path:'detailsJob/:detailsjobId',
         element:<DetailsJob></DetailsJob>,
         loader:async ({params})=>{
-          const data=await fetch("/public/circularData.json");
+          const data=await fetch("/public/fakeData/circularData.json");
           const datas=await data.json();
           return datas.filter(item=>item.id==params.detailsjobId)
     
