@@ -3,7 +3,6 @@
     background-color: rgb(241, 222, 185);
 }
 .job-info{
-    display: flex;
     justify-content: space-between;
     align-items: center;
     width: 75%;

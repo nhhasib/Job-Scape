@@ -6,7 +6,7 @@ const Blog = () => {
   return (
     <div>
       <JobBanner text="Blogs"></JobBanner>
-      <div className="w-9/12 mx-auto my-16">
+      <div className="w-9/12 mx-auto my-10">
         <div className="blog p-6">
           <h1 className="font-bold text-2xl">
             When should you use context API?

@@ -9,9 +9,7 @@ const DetailsJob = () => {
   const dataArray = useLoaderData();
   const appliedJobs=getShoppingCart();
   const handleApply=id=>{
-    addToDb(id)
-    // if(appliedJobs.find(job=>job.id!==id)){
-    // }
+    addToDb(id);
   }
   const {
     id,
@@ -34,7 +32,7 @@ const DetailsJob = () => {
   return (
     <div>
       <JobBanner text="Job Details"></JobBanner>
-      <div className="grid grid-cols-3 gap-4 w-9/12 mx-auto my-10">
+      <div className="grid md:grid-cols-3 gap-4 w-9/12 mx-auto my-10">
         <div className="col-span-2">
           <p>
             <span className="font-bold">Job Description: </span>
