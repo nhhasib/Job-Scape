@@ -13,7 +13,7 @@ const FeaturedJobs = ({data}) => {
       Explore thousands of job opportunities with all the information you need. Its your future
       </p>
       </div>
-      <div className="grid grid-cols-2 gap-4 justify-between">
+      <div className="grid md:grid-cols-2 gap-4 justify-between">
         {
             datasSlice.map(data=><FeaturedJob data={data} key={data.id}></FeaturedJob>)
         }

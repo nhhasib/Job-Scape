@@ -3,8 +3,8 @@ import React from "react";
 const Banner = () => {
   return (
     <div className="bg-slate-100">
-      <div className="flex w-9/12 mx-auto justify-between pt-10">
-        <div className="w-1/2 my-auto">
+      <div className="md:flex w-9/12 mx-auto justify-between pt-10">
+        <div className="md:w-1/2 my-auto">
           <h1 className="font-bold my-6">
             One Step Closer <br /> To Your <br />{" "}
             <span className="text-orange-500">Dream Job</span>
@@ -16,7 +16,7 @@ const Banner = () => {
           </p>
           <button>Get Started</button>
         </div>
-        <div className="w-1/2">
+        <div className="md:w-1/2">
           <img src="/src/image/person.png" alt="" />
         </div>
       </div>

@@ -1,9 +1,13 @@
 import React from 'react';
+import JobBanner from '../jobBanner/JobBanner';
 
 const Blog = () => {
     return (
         <div>
-            <h1>from blog</h1>
+            <JobBanner text="Blogs"></JobBanner>
+            <div>
+                
+            </div>
         </div>
     );
 };
