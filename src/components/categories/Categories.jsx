@@ -3,8 +3,9 @@ import Category from "../category/Category";
 
 const Categories = () => {
   const [datas, setDatas] = useState([]);
+  
   useEffect(() => {
-    fetch("/public/fakeData/categoriesData.json")
+    fetch("/categoriesData.json")
       .then((res) => res.json())
       .then((datas) => setDatas(datas));
   }, []);

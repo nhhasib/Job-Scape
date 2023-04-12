@@ -17,7 +17,7 @@ const Banner = () => {
           <button>Get Started</button>
         </div>
         <div className="md:w-1/2">
-          <img src="/src/image/person.png" alt="" />
+          <img src="https://user-images.githubusercontent.com/114354524/231541556-5b5a8dfd-7484-417c-b588-492b2b2a7780.png" alt="" />
         </div>
       </div>
     </div>

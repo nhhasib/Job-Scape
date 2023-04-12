@@ -23,13 +23,13 @@ const router = createBrowserRouter([
       {
         path:"/",
         element:<Home></Home>,
-        loader:()=>fetch("/public/fakeData/circularData.json")
+        loader:()=>fetch("/circularData.json")
       },
       {
         path:'detailsJob/:detailsjobId',
         element:<DetailsJob></DetailsJob>,
         loader:async ({params})=>{
-          const data=await fetch("/public/fakeData/circularData.json");
+          const data=await fetch("/circularData.json");
           const datas=await data.json();
           return datas.filter(item=>item.id==params.detailsjobId)
     
@@ -42,7 +42,7 @@ const router = createBrowserRouter([
       {
         path:"appliedJobs",
         element:<AppliedJobs></AppliedJobs>,
-        loader:()=>fetch("/public/fakeData/circularData.json")
+        loader:()=>fetch("/circularData.json")
       },
       {
         path:"blog",
